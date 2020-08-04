@@ -1,2 +1,2 @@
-# pull-refresh
-小程序下拉刷新
+# wx。request
+小程序请求的封装
